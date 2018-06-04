@@ -4,3 +4,5 @@
 4. rating:int, 2
 5. rating_count:int, 2
 6. goodreads_id:int, 2
+7. overall_pace:float, 3
+8-17. deciles_pace:float, 3
