@@ -1,9 +1,9 @@
 import os
 import re
 
-data_path = '/home/ihoold/Downloads/Ksiazki'
+data_path = '../Ksiazki'
 list_file_name = 'spis.csv'
-new_list_file_name = 'features.csv'
+new_list_file_name = 'features_1.csv'
 
 if __name__ == '__main__':
     os.chdir(data_path)
